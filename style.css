@@ -1,0 +1,28 @@
+@import url("styles/header.css");
+@import url("styles/apresentaçao.css");
+@import url("styles/numeros.css");
+@import url("styles/talentos__imagem.css");
+@import url("styles/vagas.css");
+@import url("styles/sobre__nós.css");
+@import url("styles/formulario.css");
+
+
+:root {
+    --cor-de-fundo:#FFFFFF;
+    --cor-cinza-claro: #667085;
+    --cor-menu-link:  #FFF;
+    --vermelho-texto: #8E2424;
+    --cor-preta: #101828;
+    --cor-borda: #EAECF0;
+    --cor-de-fundo-formulario: #F9FAFB;
+    --cor-texto-direitos: #98A2B3;
+    --font-principal: 'Inter';
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+    font-family: var(--font-principal);
+    box-sizing: border-box;
+    width: 100%;
+}
+

@@ -1,0 +1,63 @@
+.sobre__nós {
+    margin: 6rem 5rem 6rem 5rem;
+    border-radius: 16px;
+    background: rgba(195, 25, 25, 0.03);
+}
+
+.sobre__nós__descrição {
+    padding: 4rem 4rem 2rem 4rem;
+}
+
+.perfil__desenvolvedora {
+    padding: 0rem 4rem 4rem 4rem;
+}
+
+.titulo__sobre__nós {
+    display: flex;
+    justify-content: center;
+    margin: 0  0 1rem 0;
+    line-height: 20px;
+    font-family: var(--font-principal);
+    font-size: 14px;
+    font-weight: 600;
+    color:var(--vermelho-texto); 
+}
+
+.subtitulo__sobre__nós {
+    text-align: center;
+    line-height: 44px;
+    letter-spacing: -0.72px;
+    margin: 0 0rem 0 0rem;
+    font-family: var(--font-principal);
+    font-size: 36px;
+    font-weight: 500 ;
+    color: var(--cor-preta);
+}
+
+.foto__desenvolvedora {
+    text-align: center;
+}
+
+.foto__desenvolvedora-tamanho {
+    width: 56px;
+}
+
+.nome__desenvolvedora {
+    text-align: center;
+    margin: 1rem 0  0  0;
+    font-family: var(--font-principal);
+    line-height: 24px;
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--cor-preta);
+}
+
+.texto__desenvolvedora {
+    text-align: center;
+    padding: 0.25rem 0;
+    font-family: var(--font-principal);
+    line-height: 20px;
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--cor-cinza-claro);
+}

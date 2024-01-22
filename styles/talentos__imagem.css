@@ -1,0 +1,40 @@
+.titulo__vagas {
+    display: flex;
+    justify-content: center;
+    font-family: var(--font-principal);
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--vermelho-texto);
+    padding: 4px 12px;
+    border-radius: 16px;
+    margin: 192px 610px 0 610px;
+    background: rgba(142, 36, 36, 0.05);
+}
+
+.titulo__talentos {
+    text-align: center;
+    margin: 1rem 0 0 0;
+    font-family: var(--font-principal);
+    font-size: 36px;
+    font-weight: 600;
+    color: var(--cor-preta);
+}
+
+.texto__equipe {
+    text-align: center;
+    margin: 1.25rem 0 0 0;
+    font-family: var(--font-principal);
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--cor-cinza-claro);
+}
+
+.imagem__reuniao-item {
+    width: 87%;
+    margin: 4rem 0 0 0;
+
+}
+
+.imagem__reuniao {
+    text-align: center;
+}
